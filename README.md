@@ -27,9 +27,18 @@ Con el Machine Learning aplicado a imágenes, ahora podemos utilizar este poder 
 
 → Caso de china con el reconocimiento facial 
 
+→ los capchas 
+
 
 ## Computer Vision 
 
+La "Computer Vision" o "Visión por Computadora" en el campo de la Inteligencia Artificial se refiere a la capacidad de las máquinas para interpretar y comprender el contenido visual del mundo que las rodea. Es una rama de la AI que se enfoca en permitir que las computadoras "vean" y procesen imágenes y videos de manera similar a como lo hace el ser humano.
+
+El objetivo de la visión por computadora es que las máquinas puedan entender el contenido de las imágenes y videos, identificar objetos, reconocer caras, leer texto, medir distancias, detectar movimientos y realizar una variedad de tareas relacionadas con el análisis de datos visuales.
+
+Para lograr esto, se utilizan diferentes técnicas y algoritmos, entre ellos las redes neuronales convolucionales (CNNs), que mencionamos anteriormente. Estas redes son especialmente poderosas para extraer características visuales y aprender patrones complejos en las imágenes.
+
+La visión por computadora tiene una amplia gama de aplicaciones prácticas, como sistemas de vigilancia y seguridad, diagnóstico médico, conducción autónoma, realidad aumentada, reconocimiento facial, clasificación y etiquetado de imágenes, entre muchas otras áreas. Es una tecnología emocionante que está transformando la forma en que interactuamos con el mundo visual y está impulsando numerosos avances en la vida cotidiana y diversas industrias.
 
 ## StableDiffusion
 
