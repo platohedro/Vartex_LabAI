@@ -12,6 +12,10 @@ La inteligencia artificial aplicada a imágenes es una revolucionaria combinaci�
 
 ## Redes Neuronales 
 
+Las redes neuronales para imágenes son modelos matemáticos inspirados en el cerebro humano que pueden "ver" y comprender el contenido de las fotos. Se entrenan mostrándoles muchas imágenes junto con etiquetas que indican qué hay en ellas. Luego, pueden reconocer objetos, caras, paisajes y realizar tareas como clasificación, detección y segmentación en una amplia variedad de aplicaciones, como reconocimiento facial, conducción autónoma, diagnóstico médico y más. 
+
+Su capacidad para procesar información visual ha tenido un gran impacto en la inteligencia artificial aplicada a imágenes y ha llevado a avances significativos en el campo del procesamiento de imágenes y la visión por computadora.
+
 
 ## Machine Learning 
 
