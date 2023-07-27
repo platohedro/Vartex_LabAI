@@ -18,7 +18,15 @@ La inteligencia artificial aplicada a imágenes es una revolucionaria combinaci�
 
 
 
-Herramintas de generación de Imagen 
+### Herramientas de generación de Imagen 
 
+
+[Dreamstudio]()
+
+[Playgound AI]()
+
+[Leonardo APP]()
+
+[BlueWillow]() En discord
 
 [runwayml](https://app.runwayml.com)
