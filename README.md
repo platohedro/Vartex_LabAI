@@ -10,6 +10,17 @@ La inteligencia artificial aplicada a imágenes es una revolucionaria combinaci�
 
 
 
+## Redes Neuronales 
+
+
+## Machine Learning 
+
+
+## Computer Vision 
+
+
+## StableDiffusion
+
 
 
 
@@ -29,4 +40,13 @@ La inteligencia artificial aplicada a imágenes es una revolucionaria combinaci�
 
 [BlueWillow]() En discord
 
+
+
+
+### Herramientas de generación de Vídeo
+
+
 [runwayml](https://app.runwayml.com)
+
+[Deforum](https://deforum.github.io/)
+
