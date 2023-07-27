@@ -24,8 +24,12 @@ Bloque 1
 
 → Keras, Tensorflow, pytorch, transformers, opencv 
 
+## Modelos
+
 → Hugging face 
 
 → StableDiffusion
+
+## APIS StableDiffusion
 
 
