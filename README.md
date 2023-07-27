@@ -19,6 +19,14 @@ Su capacidad para procesar información visual ha tenido un gran impacto en la i
 
 ## Machine Learning 
 
+magina que el "Machine Learning" es como enseñarle a una computadora a ver el mundo a través de imágenes. Es como si le diéramos un montón de fotos y le dijéramos: "Mira, aquí hay un perro, aquí hay un gato, aquí hay un árbol". La computadora, como si fuera un estudiante curioso, examina todas las fotos y empieza a notar patrones y características distintas en cada una. Poco a poco, va aprendiendo a diferenciar entre diferentes objetos y a comprender qué hace que cada cosa sea única.
+
+Lo impresionante es que, a medida que sigue viendo más imágenes y practicando, la computadora se vuelve cada vez mejor en reconocer objetos y realizar tareas específicas, como decirnos si hay un perro en una foto o detectar una cara entre muchas personas. Es como si estuviera desarrollando sus propios superpoderes visuales.
+
+Con el Machine Learning aplicado a imágenes, ahora podemos utilizar este poder para mejorar nuestras vidas de muchas maneras. Desde sistemas de seguridad que detectan objetos sospechosos, hasta diagnósticos médicos más precisos con análisis de imágenes, o incluso divertidas aplicaciones que nos permiten interactuar con el mundo a través de la realidad aumentada.
+
+→ Caso de china con el reconocimiento facial 
+
 
 ## Computer Vision 
 
