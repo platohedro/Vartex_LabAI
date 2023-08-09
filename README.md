@@ -72,7 +72,14 @@ La visión por computadora tiene una amplia gama de aplicaciones prácticas, com
 [Deforum](https://deforum.github.io/)
 
 
+
+## Pedia de herramientas con AI 
+
+[https://www.futurepedia.io/](Futurpedia)
+
 ### Otras tools
 
 [https://app.artflow.ai](artflow)
+
+
 
