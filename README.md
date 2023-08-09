@@ -77,6 +77,10 @@ La visión por computadora tiene una amplia gama de aplicaciones prácticas, com
 
 [Futurpedia](https://www.futurepedia.io/)
 
+## AI generative art tool pack 
+
+[Pack](https://pharmapsychotic.com/tools.html)
+
 ### Otras tools
 
 [Artflow ](https://app.artflow.ai)
