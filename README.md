@@ -43,7 +43,7 @@ La visión por computadora tiene una amplia gama de aplicaciones prácticas, com
 ## StableDiffusion
 
 
-
+Stable Difusion es una herramienta de inteligencia artificial opensource Text to Image reado por [stability.io](https://stability.ai/)
 
 
 
@@ -53,13 +53,13 @@ La visión por computadora tiene una amplia gama de aplicaciones prácticas, com
 ### Herramientas de generación de Imagen 
 
 
-[Dreamstudio]()
+[Dreamstudio](https://beta.dreamstudio.ai/generate)
 
-[Playgound AI]()
+[Playgound AI](https://playgroundai.com/)
 
-[Leonardo APP]()
+[Leonardo APP](https://app.leonardo.ai/)
 
-[BlueWillow]() En discord
+[BlueWillow](https://app.leonardo.ai/) En discord
 
 
 
